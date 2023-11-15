@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 
+// title metadata
 export const metadata: Metadata = {
   title: 'Customers',
 };
